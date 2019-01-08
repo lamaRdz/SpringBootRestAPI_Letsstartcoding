@@ -1,0 +1,5 @@
+package com.letsstartcoding.springbootrestapiexample;
+
+public class EmployeeApplication {
+
+}

@@ -1,0 +1,21 @@
+package com.letsstartcoding.springbootrestapiexample.dao;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.letsstartcoding.springbootrestapiexample.repository.EmployeeRepository;
+
+public class EmployeeDAO {
+	
+	@Autowired
+	EmployeeRepository employeeRepository;
+	
+	@
+	/* to save an employee*/
+	
+	/* search all employees*/
+	
+	/* get an employee*/
+	
+	/* delete an employee*/
+
+}

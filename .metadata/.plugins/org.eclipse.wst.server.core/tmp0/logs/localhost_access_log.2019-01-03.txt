@@ -1,0 +1,16 @@
+127.0.0.1 - - [03/Jan/2019:11:19:56 -0600] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:11:19:57 -0600] "GET /springbootrestapiexample/WEB-INF/classes/com/letsstartcoding/springbootrestapiexample/EmployeeApplication.java HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:11:50:51 -0600] "GET /springbootrestapiexample/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:12:12:10 -0600] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:12:12:44 -0600] "GET /springbootrestapiexample/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:12:12:52 -0600] "GET /springbootrestapiexample/company HTTP/1.1" 404 1110
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:12:13:07 -0600] "GET /springbootrestapiexample/employees HTTP/1.1" 404 1112
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:12:13:11 -0600] "GET /springbootrestapiexample/employees/ HTTP/1.1" 404 1117
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:12:13:16 -0600] "GET /springbootrestapiexample/employees/ HTTP/1.1" 404 1117
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:12:13:55 -0600] "GET /springbootrestapiexample/company/employees/ HTTP/1.1" 404 1129
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:12:14:17 -0600] "GET /springbootrestapiexample/company/employees/ HTTP/1.1" 404 1129
+127.0.0.1 - - [03/Jan/2019:12:15:46 -0600] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:12:15:55 -0600] "GET /springbootrestapiexample/company/getEmployees HTTP/1.1" 404 1127
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:12:16:40 -0600] "GET /company/getEmployees HTTP/1.1" 404 1098
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:12:16:43 -0600] "GET /company/getEmployees HTTP/1.1" 404 1098
+0:0:0:0:0:0:0:1 - - [03/Jan/2019:12:16:59 -0600] "GET /company/getEmployees/ HTTP/1.1" 404 1103

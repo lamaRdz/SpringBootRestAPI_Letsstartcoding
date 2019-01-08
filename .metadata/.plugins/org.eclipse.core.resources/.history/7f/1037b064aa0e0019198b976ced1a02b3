@@ -1,0 +1,5 @@
+package com.letsstartcoding.springbootrestapiexample.model;
+
+public class Employee {
+
+}

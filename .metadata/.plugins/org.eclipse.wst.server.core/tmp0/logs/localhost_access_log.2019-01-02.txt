@@ -1,0 +1,4 @@
+127.0.0.1 - - [02/Jan/2019:14:25:07 -0600] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [02/Jan/2019:14:25:08 -0600] "GET /springbootrestapiexample/WEB-INF/classes/com/letsstartcoding/springbootrestapiexample/controller/EmployeeController.java HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [02/Jan/2019:15:08:02 -0600] "GET /company/employees/1 HTTP/1.1" 404 1101
+0:0:0:0:0:0:0:1 - - [02/Jan/2019:15:09:27 -0600] "GET /company/employees/1 HTTP/1.1" 404 1101
